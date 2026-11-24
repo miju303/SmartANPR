@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+# Personal webcam captures
+data/captured_frames/frame_*.jpg
+data/captured_frames/frame_*.png
+
+# Downloaded traffic video
+data/sample_videos/*.mp4
